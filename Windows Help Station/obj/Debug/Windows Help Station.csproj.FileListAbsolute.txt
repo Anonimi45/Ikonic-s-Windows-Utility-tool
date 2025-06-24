@@ -1,0 +1,12 @@
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\bin\Debug\Windows Help Station.exe.config
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\bin\Debug\Windows Help Station.exe
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\bin\Debug\Windows Help Station.pdb
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\bin\Debug\Guna.UI2.dll
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows Help Station.csproj.AssemblyReference.cache
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows_Help_Station.Form1.resources
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows_Help_Station.Properties.Resources.resources
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows Help Station.csproj.GenerateResource.cache
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows Help Station.csproj.CoreCompileInputs.cache
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows .85FC1806.Up2Date
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows Help Station.exe
+C:\Users\Octab\source\repos\Windows Help Station\Windows Help Station\obj\Debug\Windows Help Station.pdb
